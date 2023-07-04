@@ -1,7 +1,7 @@
 # Bustabit: Script / Predictor / Strategy --> FortunaBot
 We proudly present the groundbreaking FortunaBot, a Bustabit Automation Script. It is a powerful tool meticulously designed to maximize your profits and revolutionize your gameplay on bustabit.com Unlock the power of the Bustabit Automation Script
 
-## Introducing the Ultimate Bustabit Automation Script
+## Introducing FortunaBot - The Ultimate Bustabit Automation Script
 
 Are you ready to take your online gambling experience to the next level? Look no further! We proudly present the groundbreaking Bustabit Automation Script, a powerful tool meticulously designed to maximize your profits and revolutionize your gameplay on bustabit.com.
 
