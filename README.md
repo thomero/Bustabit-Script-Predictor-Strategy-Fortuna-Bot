@@ -6,11 +6,8 @@ We proudly present the groundbreaking FortunaBot, a Bustabit Automation Script. 
 <br>
 
 ## ✅ Special Discount for Github: Use promo code 'GITHUB' to unlock the discount! Limited Time Offer ⌚
-
+# https://bit.ly/bustabitscript
 <br>
-<br>
-<br>
-
 
 ## Introducing FortunaBot - The Ultimate Bustabit Automation Script
 
