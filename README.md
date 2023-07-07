@@ -1,9 +1,16 @@
 # Bustabit: Script / Predictor / Strategy --> FortunaBot :+1:
+# *VERIFIED WORKING 2023*
+
 We proudly present the groundbreaking FortunaBot, a Bustabit Automation Script. It is a powerful tool meticulously designed to maximize your profits and revolutionize your gameplay on bustabit.com Unlock the power of the Bustabit Automation Script.
 <br>
 <br>
+
+## ✅ Special Discount for Github: Use promo code 'GITHUB' to unlock the discount! Limited Time Offer ⌚
+
 <br>
 <br>
+<br>
+
 
 ## Introducing FortunaBot - The Ultimate Bustabit Automation Script
 
