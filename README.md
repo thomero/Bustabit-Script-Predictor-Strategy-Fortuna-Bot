@@ -61,3 +61,14 @@ Visit our page to unlock the power of the Bustabit Automation Script. Our dedica
 <br>
 ### Disclaimer: 
 Our Bustabit Automation Script is designed for entertainment purposes only. Gambling involves risk, and we encourage responsible gambling practices. Past performance is not indicative of future results. Please gamble responsibly.
+
+## What is Bustabit?
+Bustabit.com is an online gambling platform that gained popularity for its unique and engaging Bitcoin-based game. The core concept of the game revolves around a graph that starts at a multiplier of 1x. As players place their bets, the multiplier begins to increase gradually. The goal for participants is to cash out their bet before the graph "busts" or crashes.
+
+When a player enters the game, they choose an amount to wager with Bitcoin. They then have the option to manually cash out their bet at any time, or they can set an automatic cash out at a desired multiplier. The longer a player waits before cashing out, the higher the multiplier becomes, increasing their potential winnings. However, if the player fails to cash out before the graph crashes, they lose their bet entirely.
+
+The game's outcome depends on a provably fair system, which ensures fairness and transparency. This means that players can verify the integrity of the game's results, ensuring that neither the website nor other players can manipulate the outcome.
+
+Bustabit.com often incorporated social elements into its platform. Players had the opportunity to chat with each other, creating a sense of community within the gambling experience. They could also view and compare the bets placed by other participants on the graph.
+
+It's worth noting that online gambling can carry risks, including the potential for financial loss. As with any form of gambling, it's important to approach it responsibly and be aware of the potential consequences.
