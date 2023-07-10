@@ -1,7 +1,7 @@
 # Bustabit: Script - Predictor - Strategy --> FortunaBot V1
 # *VERIFIED WORKING 2023*
 
-##Introduction:
+## Introduction:
 FortunaBot is a powerful tool designed to enhance your gameplay experience. With this script, you have the ability to set the number of games you wish to wait before chasing a 10x multiplier. Once the predetermined number of games is reached, the script will place bets based on your specified 'base bet' value and adjust the betting amount dynamically to maintain profitability.
 
 <br>
