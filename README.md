@@ -7,6 +7,9 @@ FortunaBot is a powerful tool designed to enhance your gameplay experience. With
 <br>
 <br>
 
+**I have back-tested the script on over 10 Million Games with great profits and success. My exact settings for achieving that are provided with the script.**
+
+
 ## ✅ Get it here:
 # https://bit.ly/bustabitscript
 <br>
@@ -24,7 +27,7 @@ FortunaBot is a powerful tool designed to enhance your gameplay experience. With
 **Progressive Bet Doubling:** The script employs a progressive betting strategy to maximize potential gains. After 15 total games (nine initial bets + six doubled bets), the bet amount will double every five games until a 10x multiplier is achieved. This gradual increment enhances the possibility of reaching the desired multiplier.
 
 ## Additional Features:
-FortunaBot provides some additional features to assist you in making informed decisions:
+The 10x Chasing script provides some additional features to assist you in making informed decisions:
 
 **History Feature:** The script incorporates a history feature that checks the current number of games played since the last 10x multiplier. This information can give you valuable insights into the probability of hitting a 10x multiplier in your gameplay session.
 
@@ -32,7 +35,7 @@ FortunaBot provides some additional features to assist you in making informed de
 
 **Logging Functionalities:** By pressing F12, you can access the logging functionalities provided by the script. This feature enables you to review and analyze your betting history, facilitating a deeper understanding of your gameplay patterns.
 
-## Advantages of the 10x Chasing Script:
+## Advantages of the FortunaBot Script:
 
 **Customizable Strategy:** You have the flexibility to adjust the waiting period and base bet according to your risk appetite and gameplay style.
 
@@ -40,7 +43,7 @@ FortunaBot provides some additional features to assist you in making informed de
 
 **History and Simulation Features: **The history feature provides valuable insights, while the simulation feature helps you manage your bankroll more effectively and make informed decisions.
 
-## Disadvantages of the 10x Chasing Script:
+## Disadvantages of the FortunaBot Script:
 
 **Risk of Loss:** While the script aims to recover losses by doubling bets, there is still a risk of encountering an extended losing streak that could lead to significant financial losses.
 
