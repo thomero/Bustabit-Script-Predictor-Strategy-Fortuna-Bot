@@ -41,13 +41,13 @@ The 10x Chasing script provides some additional features to assist you in making
 
 **Progressive Betting:** The script employs a progressive doubling strategy, which increases the chances of reaching the desired 10x multiplier and potentially generating higher profits.
 
-**History and Simulation Features: **The history feature provides valuable insights, while the simulation feature helps you manage your bankroll more effectively and make informed decisions.
+**History and Simulation Features:** The history feature provides valuable insights, while the simulation feature helps you manage your bankroll more effectively and make informed decisions.
 
 ## Disadvantages of the FortunaBot Script:
 
 **Risk of Loss:** While the script aims to recover losses by doubling bets, there is still a risk of encountering an extended losing streak that could lead to significant financial losses.
 
-**Dependency on Probability: ** The success of the script relies on the probability of hitting a 10x multiplier within a reasonable number of games. If the multiplier is not achieved within the set parameters, the script may not yield the desired results.
+**Dependency on Probability:** The success of the script relies on the probability of hitting a 10x multiplier within a reasonable number of games. If the multiplier is not achieved within the set parameters, the script may not yield the desired results.
 
 
 ### Disclaimer: 
