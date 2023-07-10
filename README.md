@@ -20,11 +20,11 @@ FortunaBot is a powerful tool designed to enhance your gameplay experience. With
 **Base Bet Betting:** After the waiting period, the script will start placing bets at the 'base bet' value you specified. It will continue betting for a fixed number of games, which is nine in this case, before modifying the bet amount.
 
 **Doubling Bets:** If the script encounters a losing streak of nine games, it will double the bet amount for the next round, aiming to recover the previous losses and generate profits. This strategy is implemented to increase the chances of hitting a 10x multiplier.
-**
-Progressive Bet Doubling:** The script employs a progressive betting strategy to maximize potential gains. After 15 total games (nine initial bets + six doubled bets), the bet amount will double every five games until a 10x multiplier is achieved. This gradual increment enhances the possibility of reaching the desired multiplier.
+
+**Progressive Bet Doubling:** The script employs a progressive betting strategy to maximize potential gains. After 15 total games (nine initial bets + six doubled bets), the bet amount will double every five games until a 10x multiplier is achieved. This gradual increment enhances the possibility of reaching the desired multiplier.
 
 ## Additional Features:
-The 10x Chasing script provides some additional features to assist you in making informed decisions:
+FortunaBot provides some additional features to assist you in making informed decisions:
 
 **History Feature:** The script incorporates a history feature that checks the current number of games played since the last 10x multiplier. This information can give you valuable insights into the probability of hitting a 10x multiplier in your gameplay session.
 
